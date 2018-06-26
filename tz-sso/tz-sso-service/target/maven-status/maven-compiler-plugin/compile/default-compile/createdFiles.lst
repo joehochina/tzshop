@@ -1,0 +1,3 @@
+com\tengzhuo\sso\service\impl\LoginServiceImpl.class
+com\tengzhuo\sso\service\impl\TokenServiceImpl.class
+com\tengzhuo\sso\service\impl\RegisterServiceImpl.class

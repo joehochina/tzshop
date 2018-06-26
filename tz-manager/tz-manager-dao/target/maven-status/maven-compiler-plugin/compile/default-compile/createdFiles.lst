@@ -1,0 +1,11 @@
+com\tengzhuo\mapper\TbItemParamMapper.class
+com\tengzhuo\mapper\TbOrderItemMapper.class
+com\tengzhuo\mapper\TbItemCatMapper.class
+com\tengzhuo\mapper\TbItemDescMapper.class
+com\tengzhuo\mapper\TbItemParamItemMapper.class
+com\tengzhuo\mapper\TbItemMapper.class
+com\tengzhuo\mapper\TbOrderMapper.class
+com\tengzhuo\mapper\TbUserMapper.class
+com\tengzhuo\mapper\TbContentCategoryMapper.class
+com\tengzhuo\mapper\TbContentMapper.class
+com\tengzhuo\mapper\TbOrderShippingMapper.class
