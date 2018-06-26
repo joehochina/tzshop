@@ -1,0 +1,12 @@
+注意事项AJAX请求不好使，
+1、ajax包未到入
+2、当请求的地址为.html时，返回的不是对象，是
+$.post("/cart/update/num/"+_thisInput.attr("itemId")+"/"+_thisInput.val() + ".html"
+
+解决办法，在web.xml中
+	<servlet-mapping>
+		<servlet-name>tz-cart-web</servlet-name>
+		<url-pattern>*.action</url-pattern>
+	</servlet-mapping>
+	
+	$.post("/cart/update/num/"+_thisInput.attr("itemId")+"/"+_thisInput.val() + ".action"
